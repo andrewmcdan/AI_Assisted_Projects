@@ -17,7 +17,7 @@ This repository catalogs my projects in which I used AI to generate much of the 
 - [Movie Library Analyses](https://github.com/andrewmcdan/Movie-library-analyses) - Tool to do some basic analysis on a Plex Movie library.
 - [ChatGPT history Viewer](https://github.com/andrewmcdan/ChatGPT-History-Viewer) - Desktop utility for browsing exported ChatGPT conversations entirely offline.
 - [Movie Picker](https://github.com/andrewmcdan/Movie-Picker) - Interactive Plex movie picker that uses OpenAI's GPT models to interview you about what you're in the mood to watch.
-- [MultiViewer PiP Contoller Window](https://github.com/andrewmcdan/multiviewer-pip-window) - This app controls an Orei HDMI multivewer device. Using PiP mode and window, we emulate having a live view of a connected HDMI device.
+- [MultiViewer PiP Contoller Window](https://github.com/andrewmcdan/multiviewer-pip-window) - This app controls an Orei HDMI multivewer device. Using PiP mode and a moveable and resizeable window, we emulate having a live view of a connected HDMI device on the desktop.
 
 ### Books
 - [Post-Collapse Systems](https://github.com/andrewmcdan/Post-Collapse-Systems) - What happens when the world ends? How do we build back the world we once knew?
