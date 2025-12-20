@@ -11,12 +11,13 @@ This repository catalogs my projects in which I used AI to generate much of the 
 ### Embedded Systems
 - [CDeck RasPi](https://github.com/andrewmcdan/CDeck-RasPi) - Software that runs on the RasPi in my RasPi / LoRa Cyberdeck.
 - [CDeck ESP32](https://github.com/andrewmcdan/CDeck-ESP32) - Firmware for the ESP32 in my RasPi / LoRa Cyberdeck.
-- [Workbench Screens](https://github.com/andrewmcdan/Workbench-Screens) - A modular C++ application intended to run on a Raspberry Pi that drives one or more LCD panels on an electronics workbench. 
+- [Workbench Screens](https://github.com/andrewmcdan/Workbench-Screens) - A modular C++ application intended to run on a Raspberry Pi that drives one or more LCD panels on an electronics workbench.
 
 ### Tools & Utilities
 - [Movie Library Analyses](https://github.com/andrewmcdan/Movie-library-analyses) - Tool to do some basic analysis on a Plex Movie library.
 - [ChatGPT history Viewer](https://github.com/andrewmcdan/ChatGPT-History-Viewer) - Desktop utility for browsing exported ChatGPT conversations entirely offline.
-- [Movie Picker](https://github.com/andrewmcdan/Movie-Picker) - Interactive Plex movie picker that uses OpenAI's GPT models to interview you about what you're in the mood to watch. 
+- [Movie Picker](https://github.com/andrewmcdan/Movie-Picker) - Interactive Plex movie picker that uses OpenAI's GPT models to interview you about what you're in the mood to watch.
+- [MultiViewer PiP Contoller Window](https://github.com/andrewmcdan/multiviewer-pip-window) - This app controls an Orei HDMI multivewer device. Using PiP mode and window, we emulate having a live view of a connected HDMI device.
 
 ### Books
 - [Post-Collapse Systems](https://github.com/andrewmcdan/Post-Collapse-Systems) - What happens when the world ends? How do we build back the world we once knew?
